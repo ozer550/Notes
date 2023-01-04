@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42caa30469f74b13",
+        "id": "eec1a3ee89e2b345",
         "type": "tabs",
         "children": [
           {
-            "id": "68b36e84b6f186d7",
+            "id": "87907f19fb14fb07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dockercommands.md",
+                "file": "Daily/January-05-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dockercommands.md",
+                "file": "Daily/January-05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dockercommands.md",
+                "file": "Daily/January-05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dockercommands.md"
+                "file": "Daily/January-05-2023.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68b36e84b6f186d7",
+  "active": "87907f19fb14fb07",
   "lastOpenFiles": [
+    "Daily/January-05-2023.md",
+    "Templates/Daily Tasks.md",
+    "Articles/Dockercommands.md",
     "Test.md",
     "2023-01-04.md",
     "test3.md",
