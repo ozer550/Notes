@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "5d6da92ec46b7fea",
+    "id": "b6918ed6aacfc76d",
     "type": "split",
     "children": [
       {
-        "id": "406cd996f64f0096",
+        "id": "e9d8900c35724519",
         "type": "tabs",
         "children": [
           {
-            "id": "57be2c2983b29771",
+            "id": "c6d18ac67e2c70c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Dockercommands.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5fc5218b12a073ca",
+    "id": "8514e31fb084b88d",
     "type": "split",
     "children": [
       {
-        "id": "0847ba7cf16c9a18",
+        "id": "cdcce79bd6d516a8",
         "type": "tabs",
         "children": [
           {
-            "id": "763988bb0791f7dd",
+            "id": "8bb2c1a37965c466",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "c39a8bbc821d4c57",
+            "id": "902a2765f596d600",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "29953e5bfa48e511",
+            "id": "773a4efddcab2190",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,28 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "61eec8d472b3160d",
+    "id": "01fb7d54b51871fe",
     "type": "split",
     "children": [
       {
-        "id": "fb9ed076fe5e876d",
+        "id": "0a20eae6ada7ba43",
         "type": "tabs",
         "children": [
           {
-            "id": "a8d7e0460db0f418",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5415d209989e3e83",
+            "id": "4098438ad7526f23",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Dockercommands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +92,18 @@
             }
           },
           {
-            "id": "158d16dde0a291d8",
+            "id": "ccacdc5f0da0e172",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/Dockercommands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c21fc89db4a8359d",
+            "id": "bf0650752c1f0e64",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,20 +114,10 @@
             }
           },
           {
-            "id": "f92b1a5dda091041",
+            "id": "930b4dfd198b8fc4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Articles/Dockercommands.md"
-              }
-            }
-          },
-          {
-            "id": "9c1bfd05aeae1878",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
@@ -149,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,20 +135,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "57be2c2983b29771",
-  "lastOpenFiles": [
-    "Daily/January-04-2023.md",
-    "Daily/January-05-2023.md",
-    "Templates/Daily Tasks.md",
-    "Articles/Dockercommands.md",
-    "Untitled.canvas",
-    "Test.md",
-    "2023-01-04.md",
-    "test3.md",
-    "Test2.md"
-  ]
+  "active": "c6d18ac67e2c70c6",
+  "lastOpenFiles": []
 }
