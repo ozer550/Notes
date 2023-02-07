@@ -23,6 +23,10 @@ docker build .
 docker tag <imageid> DOCKERID/NAME:VERSION
 eg: docker tag beae ozer550/busy-box-copy:2
 ```
+- Removing all docker ps -a files
+  ```shell
+  docker rm $(docker ps -a -q -f status=exited)
+```
 - Removing a Docker container (soft)
 ```
 docker rm <Container_ID>

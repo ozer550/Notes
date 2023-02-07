@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "406cd996f64f0096",
+        "id": "3121c463cb704d74",
         "type": "tabs",
         "children": [
           {
-            "id": "57be2c2983b29771",
+            "id": "f67c2be1fbce6514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RedHat/Containers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "009d8c260e24d590",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,16 +175,17 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "57be2c2983b29771",
+  "active": "763988bb0791f7dd",
   "lastOpenFiles": [
-    "Daily/January-04-2023.md",
-    "Daily/January-05-2023.md",
-    "Templates/Daily Tasks.md",
+    "Daily/February-06-2023.md",
+    "RedHat/Podman.md",
+    "RedHat/Autotune Intro.md",
+    "RedHat/Containers.md",
+    "Daily/February-03-2023.md",
+    "Pasted image 20230202144221.png.md",
+    "containerization startup.png",
+    "vm vs containers.png",
     "Articles/Dockercommands.md",
-    "Untitled.canvas",
-    "Test.md",
-    "2023-01-04.md",
-    "test3.md",
-    "Test2.md"
+    "problems with server hosting.png"
   ]
 }
