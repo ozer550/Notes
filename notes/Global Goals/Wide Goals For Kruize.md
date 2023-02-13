@@ -1,0 +1,6 @@
+- [ ] Learn basics of Kubernetes
+- [ ] Learn basics of minikube and kubectl
+- [ ] Deploy and Hands on experience on kubernetes
+- [ ] Complete the Podman Course
+- [ ] Complete the Cognitive OS+KUb+DOC Course
+- [ ] Start Exploring the testing suite

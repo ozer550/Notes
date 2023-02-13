@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9d8900c35724519",
+        "id": "c8952ecebbe24720",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d18ac67e2c70c6",
+            "id": "9254b54b0c510db1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -121,12 +121,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6d18ac67e2c70c6",
-  "lastOpenFiles": []
+  "active": "8bb2c1a37965c466",
+  "lastOpenFiles": [
+    "notes/Daily/February-01-2023.md",
+    "notes/Daily/February-02-2023.md",
+    "notes/Daily/February-03-2023.md",
+    "notes/Daily/February-06-2023.md",
+    "notes/Daily/January-04-2023.md",
+    "notes/Daily/January-05-2023.md",
+    "notes/RedHat/Containers.md"
+  ]
 }
